@@ -13,8 +13,8 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "electron": "^39.7.0",
-    "electron-builder": "^24.6.4"
+    "electron": "^42.11.16",
+    "electron-builder": "^26.18.0"
   },
   "build": {
     "appId": "com.videodb.bloom",
